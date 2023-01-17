@@ -12,3 +12,18 @@ web-build/
 
 # macOS
 .DS_Store
+
+
+*.so
+.idea
+*.idea
+.idea/workspace.xml
+.idea/workspace.xml/
+.vscode
+.vscode/
+.bash_history
+.PyCharm2018.
+env/
+venv/
+
+.vscode/
